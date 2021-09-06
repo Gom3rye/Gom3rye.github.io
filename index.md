@@ -1,6 +1,6 @@
 ## 김명지 이력서
 
-안녕하세요. 반갑습니다.
+안녕하세요. 반갑습니다.:grinning:
 
 ### 소속
 
@@ -23,3 +23,4 @@
 
 ### 관련 사진
 ![jonatan-pie-xgTMSz6kegE-unsplash](https://user-images.githubusercontent.com/88931238/132168803-7035bafd-d26b-46c4-a37d-8def229e3689.jpg)
+<img src="https://user-images.githubusercontent.com/88931238/132168803-7035bafd-d26b-46c4-a37d-8def229e3689.jpg" width="50%">
