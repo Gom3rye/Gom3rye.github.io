@@ -7,7 +7,7 @@
 이화여자대학교 컴퓨터공학과
 
 ```markdown
-**이력**
+***이력***
 
 - 2020.09 교내 SW 해커톤 우수상 수상
 - 교내 컴퓨터동아리 ECC 홍보부장
@@ -21,4 +21,4 @@
 - [깃허브 바로 가기](https://github.com/Gom3rye)
 - [블로그 바로 가기](https://gom3rye.tistory.com/)
 
-This is me. :)
+![This is me. :)](C:\Users\김명지\Desktop\IMG_4424.jpg)
