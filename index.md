@@ -6,8 +6,8 @@
 
 이화여자대학교 컴퓨터공학과
 
+### 이력
 ```markdown
-***이력***
 
 - 2020.09 교내 SW 해커톤 우수상 수상
 - 교내 컴퓨터동아리 ECC 홍보부장
@@ -23,4 +23,4 @@
 
 ### 관련 사진
 
-<img src="https://user-images.githubusercontent.com/88931238/132168803-7035bafd-d26b-46c4-a37d-8def229e3689.jpg" width="50%">
+![저를 나타내는 동물입니다:)]<img src="https://user-images.githubusercontent.com/88931238/132168803-7035bafd-d26b-46c4-a37d-8def229e3689.jpg" width="50%">
