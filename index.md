@@ -23,4 +23,5 @@
 
 ### 관련 사진
 
-![저를 나타내는 동물입니다:)]<img src="https://user-images.githubusercontent.com/88931238/132168803-7035bafd-d26b-46c4-a37d-8def229e3689.jpg" width="50%">
+![저를 나타내는 동물입니다:)]
+<img src="https://user-images.githubusercontent.com/88931238/132168803-7035bafd-d26b-46c4-a37d-8def229e3689.jpg" width="50%">
