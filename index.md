@@ -7,29 +7,16 @@
 이화여자대학교 컴퓨터공학과
 
 ```markdown
-Syntax highlighted code block
+**이력**
 
-# Header 1
-## Header 2
-### Header 3
+- 2020.09 교내 SW 해커톤 우수상 수상
+- 더 많이 있을 예정... 호호호
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 관련 주소
 
-### Jekyll Themes
+[깃허브로 가기](https://github.com/Gom3rye)
+[블로그로 가기](https://gom3rye.tistory.com/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gom3rye/Gom3rye.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This is me. :)
