@@ -22,4 +22,3 @@
 - [블로그 바로 가기](https://gom3rye.tistory.com/)
 
 This is me. :)
-![내 사진]
