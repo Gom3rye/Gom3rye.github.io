@@ -22,4 +22,4 @@
 - [블로그 바로 가기](https://gom3rye.tistory.com/)
 
 ### 관련 사진
-(![jonatan-pie-xgTMSz6kegE-unsplash](https://user-images.githubusercontent.com/88931238/132168803-7035bafd-d26b-46c4-a37d-8def229e3689.jpg)
+![jonatan-pie-xgTMSz6kegE-unsplash](https://user-images.githubusercontent.com/88931238/132168803-7035bafd-d26b-46c4-a37d-8def229e3689.jpg)
