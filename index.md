@@ -17,7 +17,7 @@
 
 ### 관련 주소
 
-- [깃허브로 가기](https://github.com/Gom3rye)
-- [블로그로 가기](https://gom3rye.tistory.com/)
+- [깃허브 바로 가기](https://github.com/Gom3rye)
+- [블로그 바로 가기](https://gom3rye.tistory.com/)
 
 This is me. :)
