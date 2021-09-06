@@ -7,14 +7,12 @@
 이화여자대학교 컴퓨터공학과
 
 ### 이력
-```markdown
 
 - 2020.09 교내 SW 해커톤 우수상 수상
 - 교내 컴퓨터동아리 ECC 홍보부장
 - 교내 SW 실전창업동아리 UNIS 부회장
+- 한국청년벤처창업협회 총무
 - Intelligence System and Parallel Computer Architecture (IP-CAL) Lab 소속 인턴
-
-```
 
 ### 관련 주소
 
