@@ -12,6 +12,7 @@
 - 2020.09 교내 SW 해커톤 우수상 수상
 - 교내 컴퓨터동아리 ECC 홍보부장
 - 교내 SW 실전창업동아리 UNIS 부회장
+- Intelligence System and Parallel Computer Architecture (IP-CAL) Lab 소속 인턴
 
 ```
 
@@ -21,3 +22,4 @@
 - [블로그 바로 가기](https://gom3rye.tistory.com/)
 
 This is me. :)
+![내 사진]
