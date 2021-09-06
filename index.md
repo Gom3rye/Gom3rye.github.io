@@ -21,4 +21,4 @@
 - [깃허브 바로 가기](https://github.com/Gom3rye)
 - [블로그 바로 가기](https://gom3rye.tistory.com/)
 
-![This is me. :)](C:\Users\김명지\Desktop\IMG_4424.jpg)
+![This is me. :)](![jonatan-pie-xgTMSz6kegE-unsplash](https://user-images.githubusercontent.com/88931238/132168803-7035bafd-d26b-46c4-a37d-8def229e3689.jpg)
