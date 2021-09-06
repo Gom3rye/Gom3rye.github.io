@@ -1,6 +1,6 @@
 ## 김명지 이력서
 
-안녕하세요. 반갑습니다.:grinning:
+안녕하세요.:grinning: 반갑습니다.:hugs:
 
 ### 소속
 
@@ -22,5 +22,5 @@
 - [블로그 바로 가기](https://gom3rye.tistory.com/)
 
 ### 관련 사진
-![jonatan-pie-xgTMSz6kegE-unsplash](https://user-images.githubusercontent.com/88931238/132168803-7035bafd-d26b-46c4-a37d-8def229e3689.jpg)
+
 <img src="https://user-images.githubusercontent.com/88931238/132168803-7035bafd-d26b-46c4-a37d-8def229e3689.jpg" width="50%">
